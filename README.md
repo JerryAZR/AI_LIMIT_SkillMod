@@ -1,5 +1,13 @@
 # ActionGroupMod
 
+> ⚠️ **This repository has been archived.**
+>
+> The project has moved to a new location:  
+> 👉 [AI_LIMIT_DataOverrideKit](https://github.com/JerryAZR/AI_LIMIT_DataOverrideKit)
+>
+> Please update your bookmarks and visit the new repository for the latest updates and releases.
+
+
 **ActionGroupMod** is a MelonLoader mod that allows you to override sync-rate (a.k.a. Confidence) costs for specific skills in the game by editing a simple JSON config file.
 
 ---
